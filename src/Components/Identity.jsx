@@ -42,7 +42,7 @@ const Identity = () => {
             <h4 className='text-xl font-semibold text-white'>Call us:</h4>
             <a href='tel:+916359193636' className='text-xl text-white mb-4'>+91 63591 93636</a>
             <h4 className='text-xl font-semibold text-white'>Mail us:</h4>
-            <a className='text-lg text-white font-poppins'>akavnsolutechllp1@gmail.com</a>
+            <a href='mailto:akavnsolutechllp1@gmail.com' className='text-lg text-white font-poppins'>akavnsolutechllp1@gmail.com</a>
         </div>
         <div className="h-auto w-full flex justify-center items-center mt-6">
             <p className='text-white text-sm font-montserrat'>akavnsolutechllp © All Rights Reserved.</p>
