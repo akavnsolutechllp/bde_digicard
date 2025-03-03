@@ -7,8 +7,8 @@ import { FaUser } from "react-icons/fa";
 
 const Identity = () => {
 
-    const brochureUrl = "https://github.com/akavnsolutechllp.github.io/bde_digicard/AKAVNBROCHURE.pdf";
-    const servicesUrl = "https://github.com/akavnsolutechllp.github.io/bde_digicard/services.pdf";
+    const brochureUrl = "https://akavnsolutechllp.github.io/bde_digicard/AKAVNBROCHURE.pdf";
+    const servicesUrl = "https://akavnsolutechllp.github.io/bde_digicard/services.pdf";
 
   return (
     <div className='h-auto w-full flex flex-col justify-center items-center gap-2'>
